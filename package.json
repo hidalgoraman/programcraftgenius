@@ -1,0 +1,33 @@
+{
+  "name": "programcraftgenius",
+  "version": "1.0.2",
+  "description": "programcraftgenius",
+  "type": "module",
+  "main": "programcraftgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hidalgoraman/programcraftgenius"
+  },
+  "website": "https://github.com/hidalgoraman/programcraftgenius.git",
+  "keywords": [
+    "programcraftgenius"
+  ],
+  "author": "hidalgoraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidalgoraman/programcraftgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/hidalgoraman/programcraftgenius#readme",
+  "dependencies": {
+    "devcodecraftmaster": "1.0.2",
+    "codescriptcraftsage": "1.0.2",
+    "devcodecraftpro": "1.0.2"
+  }
+}
